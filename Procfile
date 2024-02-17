@@ -1,1 +1,1 @@
-worker: ./bin/Go-Filter-Bot
+worker: python3 main.go
